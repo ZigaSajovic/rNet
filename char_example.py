@@ -1,7 +1,5 @@
 import rNet as rNet
 import numpy as np
-import urllib.request
-import os.path
 
 def generate(net,seed_,num_to_gen):
     net.reset()
