@@ -1,11 +1,11 @@
 # rNet
-Batched RNN + LSTM in python and numpy
+Batched RNN + LSTM in Python and Numpy
 
 For an example of use consult the [char_example.py](https://github.com/ZigaSajovic/rNet/blob/master/char_example.py) file, where the model is used to train a character level text generator, as seen in the paper [Generating Sequences With Recurrent Neural Networks](https://arxiv.org/abs/1308.0850) by Alex Graves.
 
 ## Sample results
 
-We present results achievable with a one layer LSTM + softmax network trained on the two data sets available in [data](https://github.com/ZigaSajovic/rNet/tree/master/data).
+We present results achievable with a one layer LSTM + Softmax network trained on the two data sets available in [data](https://github.com/ZigaSajovic/rNet/tree/master/data), using the code provided in [char_example.py](https://github.com/ZigaSajovic/rNet/blob/master/char_example.py).
 
 ### Sample I
 
